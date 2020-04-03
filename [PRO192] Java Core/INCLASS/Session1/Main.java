@@ -20,7 +20,9 @@ public class Main {
         System.out.println("i = " + i); //1101
         System.out.println("i>>2 = " + k); //11
         System.out.println("i<<2 = " + (i << 2)); //110100
-
+        
+  System.out.println("Hello" );
+        
         Object[] a = new Object[5];
         a[0] = 10; // boxing
         a[1] = true; // boxing
